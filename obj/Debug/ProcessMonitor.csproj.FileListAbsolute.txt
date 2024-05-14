@@ -1,0 +1,7 @@
+D:\Exercise\ProcessMonitor\ProcessMonitor\bin\Debug\ProcessMonitor.exe.config
+D:\Exercise\ProcessMonitor\ProcessMonitor\bin\Debug\ProcessMonitor.exe
+D:\Exercise\ProcessMonitor\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+D:\Exercise\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.AssemblyReference.cache
+D:\Exercise\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.CoreCompileInputs.cache
+D:\Exercise\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.exe
+D:\Exercise\ProcessMonitor\ProcessMonitor\obj\Debug\ProcessMonitor.pdb
